@@ -1,0 +1,15 @@
+.rowItems:hover {
+    background-color: gainsboro;
+}
+.search {
+    min-width: 60vw;
+    position: relative;
+    left: 4rem;
+    margin-top: 2rem;
+
+}
+
+.check {
+    background-color: rgb(202, 198, 198);
+}
+  
